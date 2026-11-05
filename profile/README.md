@@ -8,7 +8,9 @@ NexusGGR provides a FiversCan casino API aggregator for iGaming operators, agent
 - **Live casino API:** Baccarat, roulette, blackjack, and game shows
 - **Sportsbook API:** Pre-match and live betting
 - **Lottery API:** Lottery draw games
-- **Aviator, fish games, and mini games:** Aviator, fish games, Mines, Plinko, Dice, Hi-Lo, Keno, and more
+- **Aviator:** Aviator crash game
+- **Fish games:** Fish shooting games
+- **Mini games:** Mines, Plinko, Dice, Hi-Lo, Keno, and more
 
 ## White-label casino platform
 
